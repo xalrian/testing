@@ -1,0 +1,18 @@
+
+
+.aboutUs-container{
+    // box-shadow: 5px 10px 20px 5px green inset;
+padding-top: 50px;
+    height:100vh;
+    width:100vw;
+    background-image: linear-gradient(to bottom, rgba(0,0,0,1)0%, rgba(0,0,0,.7)10%),
+    linear-gradient((to bottom,rgba(0,0,0,.5)80%,rgba(0,0,0,1) )100%) ,
+    url('../../utility/backgrounds/olena-sergienko-3BlVILvh9hM-unsplash.jpg');
+    background-size:cover;
+    // box-shadow: inset 0 0 0 1000px rgba(0,0,0,.8);
+    h2{
+        color:whitesmoke;
+    }
+    p{color: whitesmoke}
+   
+}
